@@ -2,7 +2,7 @@
 
 ## Description - Live Chat Application using React and Firebase
 
-## Working App Netlify Link - https://testing-live-chat-syed.netlify.app/
+## Working App Netlify Link - https://github.com/syed-mesam-ali/Live-Chat-App.git
 
 ## Built with 
 
